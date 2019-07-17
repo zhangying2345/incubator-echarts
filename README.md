@@ -160,7 +160,7 @@ ECharts-GL is an extension pack of ECharts, which provides 3D plots, globe visua
 
 ## Build
 
-Check this tutorial [Create Custom Build of ECharts](https://ecomfe.github.io/echarts-doc/public/en/tutorial.html#Create%20Custom%20Build%20of%20ECharts)
+Check this tutorial [Create Custom Build of ECharts](https://echarts.apache.org/en/tutorial.html#Create%20Custom%20Build%20of%20ECharts)
  please.
 
 ## License
@@ -174,6 +174,6 @@ Please refer to [Apache Code of Conduct](https://www.apache.org/foundation/polic
 ## Reference Paper
 
 Deqing Li, Honghui Mei, Yi Shen, Shuang Su, Wenli Zhang, Junting Wang, Ming Zu, Wei Chen.
-[ECharts: A Declarative Framework for Rapid Construction of Wed-based Visualization](https://www.sciencedirect.com/science/article/pii/S2468502X18300068).
+[ECharts: A Declarative Framework for Rapid Construction of Web-based Visualization](https://www.sciencedirect.com/science/article/pii/S2468502X18300068).
 Visual Informatics, 2018.
 
